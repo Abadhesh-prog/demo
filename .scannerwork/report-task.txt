@@ -1,0 +1,6 @@
+projectKey=aws-react-demo1
+serverUrl=http://107.20.130.141:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://107.20.130.141:9000/dashboard?id=aws-react-demo1
+ceTaskId=AYJYnRFflou8wJlH_Xmg
+ceTaskUrl=http://107.20.130.141:9000/api/ce/task?id=AYJYnRFflou8wJlH_Xmg
