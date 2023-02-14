@@ -1,0 +1,11 @@
+
+accelarator: ApiCompliance
+prerequisites:
+        -
+              name: VS code
+              version: Any
+              downloadurl: https://code.visualstudio.com/download
+        -
+              name: nodeJS
+              version: 16.3.0
+              downloadurl: https://nodejs.org/en/blog/release/v16.3.0/
